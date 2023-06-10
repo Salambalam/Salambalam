@@ -2,7 +2,7 @@
 ### Welcome to my github account!
 ### I am a beginner Java developer.
 
-## [My CV](https://github.com/alekseichemakin/https://github.com/Salambalam/Salambalam/blob/main/CV-%D0%A7%D0%B5%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD-%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD-Java.pdf)
+## [My CV](https://github.com/Salambalam/Salambalam/edit/main/README.md)
 
 ## Languages
 
