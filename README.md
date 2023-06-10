@@ -1,4 +1,4 @@
-### Hello, I'm Stepan! wave
+### Hello, I'm Stepan!
 ### Welcome to my github account!
 ### I am a beginner Java developer.
 
