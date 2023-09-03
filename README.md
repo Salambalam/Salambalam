@@ -26,6 +26,9 @@
 ## Library
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salambalam&repo=library)](https://github.com/Salambalam/library)
 
+## Temperature Processing Application
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salambalam&repo=Sensor-temperature-reader)](https://github.com/Salambalam/Sensor-temperature-reader)
+
 [//]: # (https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 
 [//]: # (?style=for-the-badge&logo=appveyor)
